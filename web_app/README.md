@@ -37,7 +37,7 @@ See on <a href="https://anapeykova.notion.site/Kanban-Web-App-83ac5176ed3e4cf081
 ### Clone the repository
 
 ```bash
-git clone
+git clone git@github.com:anapeykova/kanban_web_app.git
 ```
 
 ### Installing
