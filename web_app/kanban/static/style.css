@@ -1,0 +1,37 @@
+:root {
+  --text: #000000;
+  --background: #ffffff;
+}
+
+html {
+  background-color: var(--background);
+  color: var(--text);
+}
+
+content {
+  margin: auto;
+  align-items: center;
+  background: var(--background);
+}
+
+form label {
+  margin-top: 1%;
+  font-weight: lighter;
+}
+.about {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 10px;
+}
+
+.flash {
+  padding: 1em;
+}
+
+.debug {
+  background-color: rgb(197, 197, 65);
+  color: rgb(0, 0, 0);
+  text-align: start;
+}

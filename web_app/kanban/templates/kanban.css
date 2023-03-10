@@ -1,0 +1,12 @@
+.description {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+hr {
+    width: 90%;
+    margin-bottom: 20px;
+}
