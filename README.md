@@ -2,6 +2,8 @@
 
 A simple web app to help users stay on top of work by keeping track of tasks. Responsive design, minimalist style, intuitive layout.
 
+See on <a href="https://anapeykova.notion.site/Kanban-Web-App-83ac5176ed3e4cf08195db406e29ca5c">Notion</a>.
+
 ## Stack
 
 <ul>
@@ -35,7 +37,7 @@ A simple web app to help users stay on top of work by keeping track of tasks. Re
 ### Clone the repository
 
 ```bash
-git clone
+git clone git@github.com:anapeykova/kanban_web_app.git
 ```
 
 ### Installing
